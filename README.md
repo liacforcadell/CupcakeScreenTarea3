@@ -5,7 +5,8 @@ This app contains an order flow for cupcakes with options for quantity, flavor, 
 The order details get displayed on an order summary screen and can be shared to another app to
 send the order.
 
-![Tarea3](https://github.com/user-attachments/assets/ac70ddce-f57f-419b-b79d-8ae5522ec650)
+![Tarea3-1](https://github.com/user-attachments/assets/ecfb02b0-10d2-435c-959a-d3f5ef8549f5)
+
 
 
 Pre-requisites
